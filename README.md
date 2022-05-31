@@ -4,9 +4,9 @@ Let's see how far I get in: [Automate the Boring Stuff with Python](https://auto
 
 Goals: After summer break get senior position at Google with much $$$.
 
-⠀⠀⠀⠀⠀⠀⠀⠀Ganbateee ~~~~~ AYAYAA\
+⠀⠀⠀⠀⠀⠀⠀⠀Ganbateee ~~~~~ AYAYAA
 
-⠀⠀⠀⠀⣿⣿⡆⠀⠀⢸⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡇⠀⠀⣾⣿⡆\
+⠀⠀⠀⠀⣿⣿⡆⠀⠀⢸⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⣿⡇⠀⠀⣾⣿⡆\
 ⠀⠀⠀⠀⣿⣿⡇⠀⠀⢸⣿⢰⣿⡆⠀⣾⣿⡆⠀⣾⣷ ⣿⣿⡇⠀⠀⣿⣿⡇\
 ⠀⠀⠀⠀⣿⣿⡇⠀⠀⢸⣿⠘⣿⣿⣤⣿⣿⣿⣤⣿⡇⢻⣿⡇⠀⠀⣿⣿⡇\
 ⠀⠀⠀⠀⣿⣿⡇⠀⠀⢸⡿⠀⢹⣿⣿⣿⣿⣿⣿⣿⠁⢸⣿⣇⠀⢀⣿⣿⠇\
